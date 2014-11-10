@@ -6,12 +6,12 @@
   <parent>
     <groupId>org.jspringbot</groupId>
     <artifactId>jspringbot-base</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
   </parent>
 
   <groupId>org.jspringbot</groupId>
   <artifactId>sample-maven-options</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>sample-maven-options</name>
 
